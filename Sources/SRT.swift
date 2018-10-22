@@ -23,7 +23,7 @@ extension SRT {
         let lineSeparator: String
         if content.contains("\r\n") {
             lineSeparator = "\r\n"
-        } else if content.contains("r") {
+        } else if content.contains("\r") {
             lineSeparator = "\r"
         } else {
             lineSeparator = "\n"
