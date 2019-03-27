@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "srt"
-  s.version      = "1.0.1"
+  s.version      = "1.1.0"
   s.summary      = ""
   s.description  = <<-DESC
     Your description here.

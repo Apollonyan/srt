@@ -3,7 +3,7 @@
 //  srt
 //
 //  Created by Zhiyu Zhu on 7/9/17.
-//  Copyright © 2017-2018 srt. All rights reserved.
+//  Copyright © 2017-2019 ApolloZhu. MIT License.
 //
 
 import Foundation
